@@ -32,6 +32,7 @@ README.txt
 ==How to compile?==
 
 compile: g++ main.cpp sim_mem.h sim_mem.cpp -o ex6
+
 run: ./ex6
 
 ==Input:==
@@ -41,4 +42,5 @@ no input
 ==Output:==
 
 Writes pages to the Swap file
+
 Chars that the load function returns
